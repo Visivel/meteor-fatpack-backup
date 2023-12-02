@@ -2,6 +2,9 @@
 <img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
 </p>
 
+# Backup
+This is a backup from (mrkeww's)[https://github.com/mrkeww/meteor-fatpack] fatpack continuation, made this in case if gets deleted again, like Lefty's one.
+
 # Meteor Fatpack
 Modpack that includes Meteor client (utility client for fabric) and best addons for it from anticope.ml
 
